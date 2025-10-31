@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Environments
+.venv/
+venv/
+.env
+.env.*
+
+# IDE/OS
+.DS_Store
+Thumbs.db
+
+# Testing/coverage
+.pytest_cache/
+.coverage
+
+# Build artifacts
+build/
+dist/
