@@ -4,11 +4,11 @@ A full-stack Todo application built with React (frontend) and FastAPI (backend),
 
 ## Features
 
-- ✅ Create, read, update, and delete todos
-- ✅ Mark todos as complete/incomplete
-- ✅ Add descriptions to todos
-- ✅ Modern, responsive UI
-- ✅ Real-time updates
+- Create, read, update, and delete todos
+- Mark todos as complete/incomplete
+-  Add descriptions to todos
+-  Modern, responsive UI
+-  Real-time updates
 
 ## Tech Stack
 
@@ -208,11 +208,11 @@ curl -X DELETE http://localhost:8000/api/todos/{id}
 1. Start both backend and frontend servers
 2. Open http://localhost:5173 in your browser
 3. Test the following:
-   - ✅ Create a new todo
-   - ✅ Mark a todo as complete
-   - ✅ Edit a todo (click Edit button)
-   - ✅ Delete a todo (click Delete button)
-   - ✅ Verify todos persist after page refresh
+   -  Create a new todo
+   -  Mark a todo as complete
+   -  Edit a todo (click Edit button)
+   -  Delete a todo (click Delete button)
+   -  Verify todos persist after page refresh
 
 ## Troubleshooting
 
